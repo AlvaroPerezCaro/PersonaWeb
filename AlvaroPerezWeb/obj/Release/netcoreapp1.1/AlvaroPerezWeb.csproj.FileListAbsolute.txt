@@ -1,0 +1,9 @@
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\bin\Release\netcoreapp1.1\AlvaroPerezWeb.deps.json
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\bin\Release\netcoreapp1.1\AlvaroPerezWeb.runtimeconfig.json
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\bin\Release\netcoreapp1.1\AlvaroPerezWeb.runtimeconfig.dev.json
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\bin\Release\netcoreapp1.1\AlvaroPerezWeb.dll
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\bin\Release\netcoreapp1.1\AlvaroPerezWeb.pdb
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\obj\Release\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\obj\Release\netcoreapp1.1\AlvaroPerezWeb.AssemblyInfo.cs
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\obj\Release\netcoreapp1.1\AlvaroPerezWeb.dll
+c:\users\alvaro.perez\documents\visual studio 2017\Projects\AlvaroPerezWeb\AlvaroPerezWeb\obj\Release\netcoreapp1.1\AlvaroPerezWeb.pdb
